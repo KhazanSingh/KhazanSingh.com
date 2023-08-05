@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+.main{
+    color: rgb(223, 28, 22);
+    border: 10px;
+}
+.box{
+    height: 500px;
+    width: 100px;
+    background-color: brown;
+}
